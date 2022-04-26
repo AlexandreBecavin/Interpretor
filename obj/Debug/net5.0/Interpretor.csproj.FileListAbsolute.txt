@@ -1,0 +1,16 @@
+F:\alex\Documents\Cours_B3\Dev\Interpretor\bin\Debug\net5.0\Interpretor.exe
+F:\alex\Documents\Cours_B3\Dev\Interpretor\bin\Debug\net5.0\Interpretor.deps.json
+F:\alex\Documents\Cours_B3\Dev\Interpretor\bin\Debug\net5.0\Interpretor.runtimeconfig.json
+F:\alex\Documents\Cours_B3\Dev\Interpretor\bin\Debug\net5.0\Interpretor.runtimeconfig.dev.json
+F:\alex\Documents\Cours_B3\Dev\Interpretor\bin\Debug\net5.0\Interpretor.dll
+F:\alex\Documents\Cours_B3\Dev\Interpretor\bin\Debug\net5.0\ref\Interpretor.dll
+F:\alex\Documents\Cours_B3\Dev\Interpretor\bin\Debug\net5.0\Interpretor.pdb
+F:\alex\Documents\Cours_B3\Dev\Interpretor\obj\Debug\net5.0\Interpretor.csproj.AssemblyReference.cache
+F:\alex\Documents\Cours_B3\Dev\Interpretor\obj\Debug\net5.0\Interpretor.GeneratedMSBuildEditorConfig.editorconfig
+F:\alex\Documents\Cours_B3\Dev\Interpretor\obj\Debug\net5.0\Interpretor.AssemblyInfoInputs.cache
+F:\alex\Documents\Cours_B3\Dev\Interpretor\obj\Debug\net5.0\Interpretor.AssemblyInfo.cs
+F:\alex\Documents\Cours_B3\Dev\Interpretor\obj\Debug\net5.0\Interpretor.csproj.CoreCompileInputs.cache
+F:\alex\Documents\Cours_B3\Dev\Interpretor\obj\Debug\net5.0\Interpretor.dll
+F:\alex\Documents\Cours_B3\Dev\Interpretor\obj\Debug\net5.0\ref\Interpretor.dll
+F:\alex\Documents\Cours_B3\Dev\Interpretor\obj\Debug\net5.0\Interpretor.pdb
+F:\alex\Documents\Cours_B3\Dev\Interpretor\obj\Debug\net5.0\Interpretor.genruntimeconfig.cache
